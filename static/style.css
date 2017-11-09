@@ -1,0 +1,18 @@
+body{
+    text-align: center;   
+}
+form{
+    display: inline-block;
+}
+#wrong{
+    background-color: red;
+    display: inline-block;
+}
+#right{
+    background-color: green;
+    display: inline-block;
+}
+#guess{
+    text-align: center;
+    background-color: orange;
+}
